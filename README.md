@@ -1,16 +1,51 @@
 ## Hi there 👋
 
-<!--
-**KarlosShow/KarlosShow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👤 О себе
+После многолетнего опыта управления процессами и координации команд принял решение
+перейти в IT и сфокусироваться на обеспечении качества программных продуктов. Выбрал
+направление QA благодаря сочетанию аналитической составляющей, системного подхода и
+возможности автоматизировать рутинные проверки. Имею практический опыт автоматизации
+тестирования на Python, а также реализации проектов по:
 
-Here are some ideas to get you started:
+ручному тестированию;
+UNIT‑тестам;
+автотестам API и UI (веб‑ и мобильные приложения).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Стек технологий и инструменты
+Тестирование и тест‑дизайн
+Кроссбраузерное тестирование
+Кроссплатформенное тестирование
+Тест‑дизайн: классы эквивалентности, граничные значения, попарное тестирование
+Unit Testing
+UI‑тестирование
+Page Object Model
+Инструменты
+Android Studio
+DevTools
+Postman
+Swagger
+Apidoc
+Charles
+Cygwin
+VS Code
+Git
+Docker
+Retest
+Языки и библиотеки
+Python
+Selenium
+Requests
+Pytest (API)
+SQL
+ООП
+Портфолио:
+Ручное тестирование: https://docs.google.com/document/d/1BKyvxsKr7Tvz2JoYmmy-7chiGZZ0-CvfM_MqwOlyx5k/edit?usp=sharing
+Автоматизированное тестирование: https://github.com/KarlosShow/Projects
+
+📞 Контакты и условия сотрудничества
+Мобильный телефон: +7 926 578-59-08
+Электронная почта: velanishkis@yandex.ru
+
+Статус занятости: рассматриваю предложения
+Тип занятости: Полная занятость
+Формат работы: удалённо, гибрид, на месте работодателя
