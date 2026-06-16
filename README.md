@@ -42,7 +42,7 @@ SQL
 
 ## Портфолио:  
 Ручное тестирование: https://docs.google.com/document/d/1BKyvxsKr7Tvz2JoYmmy-7chiGZZ0-CvfM_MqwOlyx5k/edit?usp=sharing  
-Автоматизированное тестирование: https://github.com/KarlosShow/Projects
+Автоматизированное тестирование: https://github.com/KarlosShow/project.git
 
 ## 📞 Контакты и условия сотрудничества
 
